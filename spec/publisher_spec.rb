@@ -1,0 +1,38 @@
+require 'spec_helper'
+
+describe AwesomeZanox::Publisher do
+  before do
+    @client = AwesomeZanox::Client.new('someId', 'someSecret')
+  end
+
+  describe 'Profiles' do
+    it 'should return profiles' do
+      stub_get('profiles').to_return(with_fixture('publisher_profiles.json'))
+      expect(@client.publisher.profiles.profileItem[0].firstName).to eq('Maksim')
+    end
+  end
+
+  describe 'AdSpaces' do
+    it "should return adspaces" do
+      stub_get('adspaces').to_return(with_fixture('publisher_adspaces.json'))
+      expect(@client.publisher.adspaces({ items: 20, page: 2 }).page).to eq(0)
+    end
+
+    it "should return adspace 1" do
+      stub_get('adspaces/adspace/1').to_return(with_fixture('publisher_adspace.json'))
+      expect(@client.publisher.adspace(1).adspaceItem[0].name).to eq('berjoza')
+    end
+  end
+
+  describe 'AdMedia' do
+    it "should return admedias" do
+      stub_get('admedia').to_return(with_fixture('publisher_adspaces.json'))
+      expect(@client.publisher.admedia({ items: 20, page: 2 }).page).to eq(0)
+    end
+
+    # it "should return adspace 1" do
+    #   stub_get('adspaces/adspace/1').to_return(with_fixture('publisher_adspace.json'))
+    #   expect(@client.publisher.adspace(1).adspaceItem[0].name).to eq('berjoza')
+    # end
+  end
+end

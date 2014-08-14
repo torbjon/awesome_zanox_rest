@@ -1,0 +1,23 @@
+{
+    "adspaceItem": [{
+        "@id": "123456",
+        "name": "berjoza",
+        "url": "http://berjoza.com/",
+        "description": "Some description",
+        "adspaceType": "website",
+        "visitors": 1,
+        "impressions": 1,
+        "scope": "business",
+        "regions": [{
+            "region": ["LV"]
+        }],
+        "categories": [{
+            "category": {
+                "@id": "1",
+                "$": "Other"
+            }
+        }],
+        "language": "en",
+        "checkNumber": -627770537
+    }]
+}

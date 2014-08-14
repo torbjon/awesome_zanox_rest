@@ -1,0 +1,22 @@
+{
+    "profileItem": [{
+        "@id": "12345",
+        "adrank": 0,
+        "firstName": "Maksim",
+        "lastName": "Berjoza",
+        "email": "maksim.berjoza@gmail.com",
+        "country": "LV",
+        "street1": "Brivibas 123-321",
+        "city": "Riga",
+        "zipcode": 12345,
+        "company": "Berjoza SIA",
+        "phone": "+37121234123",
+        "mobile": 0,
+        "language": "en_US",
+        "title": "Business",
+        "loginName": "darwin-user-123456-123456789",
+        "userName": "torbjon",
+        "isAdvertiser": false,
+        "isSublogin": true
+    }]
+}
