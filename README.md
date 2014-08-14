@@ -1,6 +1,6 @@
 # AwesomeZanox
 
-TODO: Write a gem description
+Zanox REST api client wrapper
 
 ## Installation
 

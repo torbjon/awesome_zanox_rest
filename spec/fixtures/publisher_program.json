@@ -1,0 +1,44 @@
+{
+    "programItem": [{
+        "@id": "10320",
+        "name": "Bader DE",
+        "adrank": 5,
+        "applicationRequired": true,
+        "description": "BADER zählt seit über 80 Jahren zu den erfolgreichsten Versandhäusern Deutschlands.Entdecken Sie in unserem brandneuen Online-Shop über 15.000 Artikel sowie tolle Aktionen und Gewinnspiele.",
+        "descriptionLocal": "<![CDATA[<p>    <b>BADER<\/b> zählt seit über 80 Jahren zu den erfolgreichsten <b>Versandhäusern<\/b> Deutschlands.<\/p><p>    Entdecken Sie in unserem brandneuen Online-Shop <b>über 15.000 Artikel<\/b> sowie tolle Aktionen und Gewinnspiele.<\/p><p>    Wir bieten attraktive Produkte in höchster Qualität aus den Bereichen:<\/p><ul>    <li>Damen- und Herrenmode<\/li>    <li>Schuhe<\/li>    <li>Taschen<\/li>    <li>Schmuck & Uhren<\/li>    <li>Wohnen<\/li>    <li>Heimtextilien<\/li>    <li>Haushalt<\/li>    <li>Technik<\/li>    <li>Gesundheit<\/li><\/ul><p>    Kunden schätzen BADER aufgrund der hohen Qualität sowie der <b>versandkostenfreien Lieferung.<\/b><\/p><p>    Ihnen als Publisher steht eine breite Palette an Werbemitteln zur Verfügung. Unsere Zielgruppe ist 45+ und überwiegend weiblich.<\/p><p>    Pro vermitteltem und vom Kunden bezahlten Sale erhalten Sie 7% Umsatzprovision auf den Netto-Verkaufspreis.<br \/>    Partner werden lohnt sich!<br \/>    <br \/>    Bei Fragen oder Anregungen erreichen Sie uns unter:<br \/>    sgall@bader.de<br \/>    +49 (0) 7231 303 709<br \/>    <br \/>    Wir freuen uns auf eine erfolgreiche Zusammenarbeit!<\/p>]]>",
+        "products": 31571,
+        "vertical": {
+            "@id": "78",
+            "$": "Retail&Shopping"
+        },
+        "regions": [{
+            "region": "DE"
+        }],
+        "categories": [{
+            "category": [{
+                "@id": "34",
+                "$": "Shopping & Mail Order Shops"
+            }, {
+                "@id": "33",
+                "$": "Clothing & Accessories"
+            }, {
+                "@id": "20",
+                "$": "House & Garden"
+            }]
+        }],
+        "startDate": "2012-06-24T00:00:00+02:00",
+        "url": "http:\/\/www.bader.de\/bader\/home.do?campaign=Affiliate\/Zanox&origin=zanox",
+        "image": "http:\/\/ui.zanox-affiliate.de\/images\/programs\/10320\/10320_lgo_bader_de.png",
+        "currency": "EUR",
+        "status": "active",
+        "terms": "<p>    <b>SEM-Richtlinien:<\/b><br \/>    Es ist Ihnen als unser Partner untersagt, im Bereich des Suchmaschinenmarketings (z.B. bei Google AdWords oder bei Yahoo! Search Marketing), markenrechtlich geschützte Suchbegriffe wie „Bader“ oder „Bader.de“ zu buchen. Dies gilt auch für verwechslungsfähige Begriffe (z.B. fehlerhafte Schreibweise), oder in Verbindung mit anderen Begriffen. Die Verwendung von Marken oder Namen der Wettbewerber in Anzeigen ist ebenfalls nicht erlaubt.<br \/>    <br \/>    <b>Weitere Richtlinien:<\/b><br \/>    Es ist Ihnen untersagt, über Werbemittel (z.B. Kataloge) erhaltene Gutscheinnummern zu veröffentlichen. Zuwiderhandlung kann zum Programmausschluss sowie ggfs. zur Stornierung der dadurch erzeugten Sales führen.<br \/>    <br \/>    Ihre Website muss bei einer Bewerbung erreichbar sein, da sie vor einer Zulassung von uns in Augenschein genommen und geprüft wird.<br \/>    <br \/>    Websites mit Auslandsdomains sowie Sites mit eindeutiger Orientierung an Zielgruppen im Ausland, werden für das Partnerprogramm nicht zugelassen, da dieses lediglich www.bader.de betrifft und dort nur Bestellungen innerhalb Deutschlands und Luxemburgs vorgenommen werden können.<br \/>    <br \/>    <b>ACHTUNG: Bitte verwenden Sie ausschließlich unsere vorgegebenen Links. Sales, die aus Verlinkungen resultieren die unsere angegebenen Parameter nicht enthalten, werden von unserem System nicht anerkannt und automatisch abgewiesen.<\/b><\/p>",
+        "policies": {
+            "policy": {
+                "@id": "106",
+                "$": "Cashback\/Loyalty allowed"
+            }
+        },
+        "returnTimeLeads": 2592000,
+        "returnTimeSales": 2592000
+    }]
+}

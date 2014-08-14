@@ -1,0 +1,52 @@
+{
+    "page": 0,
+    "items": 10,
+    "total": 3,
+    "programApplicationItems": {
+        "programApplicationItem": [{
+            "@id": "11111",
+            "program": {
+                "@active": "true",
+                "@id": "1111",
+                "$": "Apple DE"
+            },
+            "adspace": {
+                "@id": "111",
+                "$": "berjoza"
+            },
+            "status": "confirmed",
+            "createDate": "2014-08-13T08:33:00.960+02:00",
+            "allowTpv": false,
+            "approvedDate": "2014-08-13T15:08:10.103+02:00"
+        }, {
+            "@id": "22222",
+            "program": {
+                "@active": "true",
+                "@id": "2222",
+                "$": "Amazone DE"
+            },
+            "adspace": {
+                "@id": "222",
+                "$": "berjoza"
+            },
+            "status": "open",
+            "createDate": "2014-08-12T16:38:34.350+02:00",
+            "allowTpv": false
+        }, {
+            "@id": "33333",
+            "program": {
+                "@active": "true",
+                "@id": "3333",
+                "$": "Microsoft DE"
+            },
+            "adspace": {
+                "@id": "333",
+                "$": "berjoza"
+            },
+            "status": "rejected",
+            "createDate": "2014-08-12T16:38:44.890+02:00",
+            "allowTpv": false,
+            "approvedDate": "2014-08-13T13:41:19.997+02:00"
+        }]
+    }
+}

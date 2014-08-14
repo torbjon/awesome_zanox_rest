@@ -1,0 +1,38 @@
+{
+    "page": 0,
+    "items": 1,
+    "total": 3662,
+    "admediumItems": {
+        "admediumItem": {
+            "@id": "388476",
+            "name": "Allgemein_120x60_Startseite",
+            "adrank": 6,
+            "admediumType": "image",
+            "program": {
+                "@id": "6770",
+                "$": "Parfumdreams - DIE Parfümerie"
+            },
+            "title": "",
+            "height": 60,
+            "width": 120,
+            "format": {
+                "@id": "12",
+                "$": "120 x 60 IMU Button #2"
+            },
+            "code": "",
+            "description": "",
+            "instruction": "",
+            "category": {
+                "@id": "88574",
+                "$": "Logos & Buttons"
+            },
+            "trackingLinks": {
+                "trackingLink": [{
+                    "@adspaceId": "1187906",
+                    "ppv": "http:\/\/ad.zanox.com\/ppv\/?19723296C38887914&zpar9=[[580599047DF8F5311043]]",
+                    "ppc": "http:\/\/ad.zanox.com\/ppc\/?19723296C38887914&zpar9=[[580599047DF8F5311043]]"
+                }]
+            }
+        }
+    }
+}

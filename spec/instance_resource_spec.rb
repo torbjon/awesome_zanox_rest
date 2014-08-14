@@ -10,8 +10,8 @@ describe AwesomeZanox::InstanceResource do
       '/reports/sales/date/2013-07-20', 'GET', date, nonce
     )
 
-    expect(signature).to eq({
+    expect(signature).to eq(
       'Authorization' => 'ZXWS 802B8BF4AE99EBE00F41:N4RPYDY1aUjciVm32pCJ82FVvuk=', 'Date' => date, 'nonce' => nonce
-    })
+    )
   end
 end

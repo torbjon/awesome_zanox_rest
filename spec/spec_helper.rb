@@ -5,6 +5,8 @@ require 'webmock/rspec'
 WebMock.disable_net_connect!
 
 RSpec.configure do |config|
+  config.filter_run :focus
+  config.run_all_when_everything_filtered = true
   config.expect_with :rspec do |c|
     c.syntax = :expect
   end
